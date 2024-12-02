@@ -1,0 +1,11 @@
+O sistema modelado é voltado para o gerenciamento de projetos sociais, organizando informações sobre funcionários, editais, projetos, donatários, notas fiscais e eventos de forma integrada. Os funcionários cadastrados são responsáveis por administrar editais e
+organizar eventos, sendo identificados por um registro único e contando com dados pessoais como nome, e-mail e data de nascimento. Os editais representam oportunidades de financiamento, vinculados a funcionários responsáveis, e incluem informações como nome, 
+descrição e valor disponível.
+
+Os donatários, que são os beneficiários das ações do projeto social, possuem dados como nome, e-mail e data de nascimento. Eles estão associados a projetos, notas fiscais e eventos, desempenhando um papel central no sistema. Os projetos representam as iniciativas 
+realizadas, sendo vinculados tanto a um edital, que fornece o financiamento, quanto a um donatário, que é o beneficiário. Cada projeto contém informações como nome e descrição, detalhando seus objetivos.
+
+Além disso, o sistema gerencia as notas fiscais, que registram os gastos ou doações relacionadas aos donatários, assegurando controle financeiro e transparência. Essas notas incluem a descrição do gasto, o valor e o donatário associado. Por fim, os eventos organizados 
+pelo projeto social têm como finalidade promover atividades, e cada evento é ligado a um funcionário ou a um donatário. Informações como nome, data, local e descrição são armazenadas para cada evento.
+
+Esse sistema permite um gerenciamento eficiente e integrado, garantindo a rastreabilidade das ações realizadas, o controle dos recursos utilizados e uma visão clara do impacto do projeto social na vida dos donatários.
